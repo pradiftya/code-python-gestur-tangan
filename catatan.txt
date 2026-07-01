@@ -1,0 +1,14 @@
+ooo iya yang mau belajar codingan ini ada beberapa hal yang harus di perhatikan ya gaes, berikut hal-hal tersebut:
+1. versi python di 3.12 
+2. Install beberapa library seperti:
+	- OpenCV 	= (pip install opencv-python)
+	- numpy  	= (pip install numpy)
+	- meadiapipe 	= (pip install mediapipe)
+	- pygame 	= (pip install pygame)
+
+3. Letakkan file audio disatu folder sama file codingnya yaaa biar asoy
+4. catatan : kenapa harus pake versi 3.12 soalnya kalo versi 3.14 ke atas mediapipe nya sepengalaman gw gak support jadi paling aman pake versi 3.12
+
+
+Selamat mencoba gaesss semoga berhasil yeeee
+
