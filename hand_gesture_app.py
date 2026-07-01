@@ -1,13 +1,3 @@
-"""
-Hand Gesture Detection App
-Real-time hand gesture detection using OpenCV and MediaPipe.
-
-Supported gestures:
-- V Sign (Peace): Blur + typewriter text "Foto kita blur" + music
-- Thumbs Up: Colored edge detection + "Mantap!" text
-- Fist: Red overlay + "Hidup Jokowi!!!" + music
-"""
-
 import cv2
 import numpy as np
 import mediapipe as mp
